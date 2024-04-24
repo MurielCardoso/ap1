@@ -1,0 +1,14 @@
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\bin\Debug\net8.0\LabProg.exe
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\bin\Debug\net8.0\LabProg.deps.json
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\bin\Debug\net8.0\LabProg.runtimeconfig.json
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\bin\Debug\net8.0\LabProg.dll
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\bin\Debug\net8.0\LabProg.pdb
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.AssemblyInfoInputs.cache
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.AssemblyInfo.cs
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.csproj.CoreCompileInputs.cache
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.dll
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\refint\LabProg.dll
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.pdb
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\LabProg.genruntimeconfig.cache
+C:\Users\muric\OneDrive\Área de Trabalho\ADS2024\LabProg\ap1\obj\Debug\net8.0\ref\LabProg.dll
